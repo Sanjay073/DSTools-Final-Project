@@ -1,0 +1,152 @@
+Player Name,Team,Salary,Age,Role,Matches,Runs,Average,Strike-Rate,Wickets,BA,Economy,BSR,Team Final Position
+Sam Curran,Punjab Kings,1850,25,All rounder,14,276,27.6,135.96,10,48.9,10.22,28.7,8th
+Cameron Green,Mumbai Indians,1750,24,All rounder,16,452,50.22,160.28,6,60.17,9.5,38,3rd
+KL Rahul,Punjab Kings,1700,31,Wicket-keeper,9,274,34.25,113.22,0,0,0,0,4th
+Ben Stokes,Chennai Super Kings,1625,32,All rounder,2,15,7.5,107.14,0,0,18,0,1st
+Rishabh Pant,Delhi Capitals,1600,26,Wicket-keeper,14,340,30.91,151.79,0,0,0,0,5th
+Andre Russell,Kolkata Knight Riders,1600,35,All rounder,14,227,20.64,145.51,7,24.57,11.34,13,7th
+Rohit Sharma,Mumbai Indians,1600,36,Batter,16,332,20.75,132.8,0,0,0,0,3rd
+Ravindra Jadeja,Chennai Super Kings,1600,35,All rounder,16,190,23.75,142.86,20,21.55,7.56,17.1,1st
+Nicholas Pooran,Lucknow Super Giants,1600,28,Wicket-keepr,15,358,29.83,172.5,0,0,0,0,4th
+Ishan Kishan,Mumbai Indians,1525,25,Wicket-keeper,16,454,30.27,142.77,0,0,0,0,3rd
+Virat Kohli,Royal Challengers Bangalore,1500,35,Batter,14,639,53.25,139.82,0,0,0,0,6th
+Rashid Khan,Gujarat Titans,1500,25,Bowler,17,130,32.25,216.67,27,20.44,8.24,14.89,2nd
+Sanju Samson,Rajasthan Royals,1400,29,Wicket-keeper,14,362,30.17,137.19,0,0,0,0,5th
+Deepak Chahar,Chennai Super Kings,1400,31,Bowler,10,1,0,50,13,22.85,8.74,21.22,2nd
+Harry Brook,Sunrisers Hyderabad,1325,24,Batter,11,190,21.11,123.38,0,0,0,0,10th
+Shreyas Iyer,Kolkata Knight Riders,1225,29,Batter,14,401,30.85,134.56,0,0,0,0,7th
+Axar Patel,Delhi Capitals,1200,30,All rounder,14,283,28.3,139.41,11,30.73,7.19,25.31,9th
+Jasprit Bumrah,Mumbai Indians,1200,30,Bowler,14,0,0,0,15,25.53,7.18,18.91,3rd
+MS Dhoni,Chennai Super Kings,1200,42,Wicket-keeper,16,104,26,182.76,0,0,0,0,1st
+Liam Livingstone,Punjab Kings,1150,30,All rounder,9,279,34.88,163.16,2,47,13.43,21,8th
+Glenn Maxwell,Royal Challengers Bangalore,1100,35,All rounder,14,400,33.33,183.4,3,31.33,9.1,20.67,6th
+Wanindu Hasaranga,Royal Challengers Bangalore,1075,26,All rounder,8,33,16.5,117.86,9,28.67,8.13,15.77,6th
+Harshal Patel,Royal Challengers Bangalore,1075,33,All rounder,13,6,3,100,14,32.43,9.66,20.14,6th
+Shardul Thakur,Kolkata Knight Riders,1075,32,All rounder,11,113,14.13,161.43,7,31.43,10.48,18,7th
+Jos Buttler,Rajasthan Royals,1000,33,Wicket-keeper,14,392,28,139.1,0,0,0,0,5th
+Mayank Agarwal,Sunrisers Hyderabad,825,32,Batter,10,270,27,128.57,0,0,0,0,10th
+Shivam Mavi,Gujarat Titans,600,25,Bowler,6,3,1.5,42.86,5,45.4,10.32,26.4,2nd
+Jason Holder,Rajasthan Royals,575,32,All rounder,8,12,6,109.09,4,71,9.96,42.75,5th
+Mukesh Kumar,Delhi Capitals,550,28,Bowler,10,7,0,77.18,7,46.57,10.52,26.57,9th
+Henrich Klaasen,Sunrisers Hyderabad,525,32,Wicket-keeper,12,448,49.78,177.08,0,0,0,0,10th
+Josh Hazlewood,Royal Challengers Bangalore,775,32,Bowler,3,1,0,50,3,25.33,8.44,18,6th
+Faf Du Plessis,Royal Challengers Bangalore,700,38,Batter,14,730,56.15,153.68,0,0,0,0,6th
+Mohammad Siraj,Royal Challengers Bangalore,700,29,Bowler,14,1,0,50,19,19.79,7.52,15.79,6th
+Dinesh Karthik,Royal Challengers Bangalore,550,38,Wicket-keeper,13,140,11.67,134.62,0,0,0,0,6th
+Anuj Rawat,Royal Challengers Bangalore,340,24,Wicket-keeper,9,91,30.33,128.17,0,0,0,0,6th
+Shahbaz Ahmed,Royal Challengers Bangalore,240,29,All rounder,10,42,10.5,107.69,1,95,13.57,42,6th
+David Willey,Royal Challengers Bangalore,200,33,All rounder,4,35,0,109.38,3,35,7,30,6th
+Karn Sharma,Royal Challengers Bangalore,50,36,Bowler,7,3,1.5,6,10,22.3,10.37,29,6th
+Akash Deep,Royal Challengers Bangalore,20,27,Bowler,2,17,17,212.5,1,59,11,30,6th
+Rajat Patidar,Royal Challengers Bangalore,20,30,Batter,8,333,52,152,0,0,0,0,6th
+Nitish Rana,Kolkata Knight Riders,800,30,Batter,14,413,32,141,3,25,8.5,18,7th
+Venkatesh Iyer,Kolkata Knight Riders,800,29,Batter,14,404,29,146,0,0,0,0,7th
+Sunil Narine,Kolkata Knight Riders,600,36,Bowler,14,21,3,84,11,35,8,26,7th
+Umesh Yadav,Kolkata Knight Riders,150,36,Bowler,8,19,8.5,105,1,189,9.95,114,7th
+Lockie Ferguson,Kolkata Knight Riders,1000,32,Bowler,3,0,0,0,1,96,12,46,7th
+Tim Southee,Kolkata Knight Riders,200,35,Bowler,2,0,0,0,2,40,14,18,7th
+Rinku Singh,Kolkata Knight Riders,,26,Batter,14,474,60,150,0,0,0,0,7th
+Rahmanullah Gurbaz,Kolkata Knight Riders,60,22,Wicket-keeper,11,227,20,134,0,0,0,0,7th
+Narayan Jagadeesan,Kolkata Knight Riders,90,28,Wicket-keeper,6,89,15,110,0,0,0,0,7th
+Kagiso Rabada,Punjab Kings,925,28,Bowler,6,0,0,0,7,33.13,10,19,8th
+Shikhar Dhawan,Punjab Kings,825,38,Batter,11,373,41.44,142,0,0,0,0,8th
+Jonny Bairstow,Punjab Kings,675,34,Batter,11,253,23,144,0,0,0,0,8th
+Rahul Chahar,Punjab Kings,525,24,Bowler,14,0,0,0,8,48,8,37,8th
+Arshdeep Singh,Punjab Kings,400,25,Bowler,14,2,0,100,17,29,9.7,17.94,8th
+Nathan Ellis,Punjab Kings,75,29,Bowler,10,1,1,100,14,26,9,17.5,8th
+Rishi Dhawan,Punjab Kings,55,34,Bowler,6,20,10,166.67,1,60,8.5,42,8th
+Jitesh Sharma,Punjab Kings,20,30,Wicket-keeper,14,309,23.77,156.06,0,0,0,0,8th
+Moeen Ali,Chennai Super Kings,800,36,All rounder,15,124,18,136,9,22,7.5,17.3,1st
+Ruturaj Gaikwad,Chennai Super Kings,600,26,Batter,16,590,42,147,0,0,0,0,1st
+Ambati Rayudu,Chennai Super Kings,675,37,Batter,16,158,15.8,139.8,0,0,0,0,1st
+Shivam Dube,Chennai Super Kings,400,30,Batter,16,418,38,158,0,0,0,0,1st
+Mitchell Santner,Chennai Super Kings,190,32,All rounder,3,2,0,100,3,27,6.75,24,1st
+Devon Conway,Chennai Super Kings,100,32,Batter,16,672,51.69,139.71,0,0,0,0,1st
+Maheesh Theekshana,Chennai Super Kings,70,23,Bowler,13,0,0,0,11,35,8,27,1st
+Ajinkya Rahane,Chennai Super Kings,50,35,Batter,14,326,32.6,172,0,0,0,0,1st
+Matheesha Pathirana,Chennai Super Kings,20,21,Bowler,12,0,0,0,19,19.5,8,14.5,1st
+Mukesh Choudary,Chennai Super Kings,20,27,Bowler,13,0,0,0,16,26.5,9,17,1st
+Tushar Deshpande,Chennai Super Kings,20,28,Bowler,16,0,0,0,21,27,10,16,1st
+Prithvi Shaw,Delhi Capitals,800,24,Batter,8,106,13.25,124.71,0,0,0,0,9th
+Mitchell Marsh,Delhi Capitals,650,32,All rounder,9,128,14,142,12,14,8,10,9th
+David Warner,Delhi Capitals,625,36,Batter,14,516,37,132,0,0,0,0,9th
+Anrich Nortje,Delhi Capitals,650,30,Bowler,10,37,12,128,10,36.4,9.1,24,9th
+Khaleel Ahmed,Delhi Capitals,525,26,Bowler,9,0,0,0,9,33,9,22,9th
+Rilee Roussow,Delhi Capitals,460,34,Batter,9,209,29.86,148.23,0,0,0,0,9th
+Rovman Powell,Delhi Capitals,280,30,All rounder,3,7,2,78,1,18,9,12,9th
+Chetan Sakariya,Delhi Capitals,420,26,Bowler,2,4,4,100,3,30,11,16,9th
+Manish Pandey,Delhi Capitals,240,34,Batter,10,160,18,110,0,0,0,0,9th
+Kuldeep Yadav,Delhi Capitals,200,28,Bowler,14,31,15.5,64.5,10,36,7,30,9th
+Ishant Sharma,Delhi Capitals,50,35,Bowler,8,0,0,0,10,20.6,8,15,9th
+Lungi Ngidi,Delhi Capitals,50,27,Bowler,3,0,0,0,5,25,7,15,9th
+Shimron Hetmyer,Rajasthan Royals,850,26,Batter,14,300,37,152,0,0,0,0,5th
+Trent Boult,Rajasthan Royals,800,34,Bowler,10,16,10,100,13,24,8,18,5th
+Devdutt Padikkal,Rajasthan Royals,775,23,Batter,11,261,26,130,0,0,0,0,5th
+Yuzvendra Chahal,Rajasthan Royals,650,33,Bowler,14,0,0,0,21,20,8,15,5th
+Jason Holder,Rajasthan Royals,575,31,All rounder,8,12,6,110,4,71,10,19,5th
+Ravichandran Ashwin,Rajasthan Royals,500,36,Bowler,13,67,11,131,14,26,7,21,5th
+Yashasvi Jaiswal,Rajasthan Royals,475,22,Batter,14,625,48,164,0,0,0,0,5th
+Riyan Parag,Rajasthan Royals,380,22,All rounder,7,78,13,118,0,0,0,0,5th
+Navdeep Saini,Rajasthan Royals,260,31,Bowler,2,0,0,0,3,24,12,12,5th
+Adam Zampa,Rajasthan Royals,150,32,Bowler,6,0,0,0,8,23,8,16,5th
+Joe Root,Rajasthan Royals,100,33,Batter,3,10,10,66.77,0,0,0,0,5th
+Obed McCoy,Rajasthan Royals,75,27,Bowler,1,0,0,0,0,0,13,0,5th
+Dhruv Jurel,Rajasthan Royals,20,23,Batter,13,152,28,154,0,0,0,0,5th
+Murugan Ashwin,Rajasthan Royals,20,33,Bowler,2,0,0,0,0,0,13.25,0,5th
+Tim David,Mumbai Indians,825,27,Batter,16,231,26,158,0,0,0,0,3rd
+Suryakumar Yadav,Mumbai Indians,800,33,Batter,16,605,43,181,0,0,0,0,3rd
+Dewald Brewis,Mumbai Indians,325,22,Batter,7,161,23,150,1,8,16,3,3rd
+Jofra Archer,Mumbai Indians,800,29,Bowler,5,0,0,0,2,95,9.5,60,3rd
+Tilak Varma,Mumbai Indians,170,21,Batter,11,343,43,164,0,0,0,0,3rd
+Jhye Richardson,Mumbai Indians,150,27,Bowler,3,0,0,0,3,39,11,22,3rd
+Jason Behrendorff,Mumbai Indians,75,32,Bowler,12,0,0,0,14,27,9,18,3rd
+Piyush Chawla,Mumbai Indians,50,36,Bowler,16,25,13,113,22,22.5,8,17,3rd
+Arjun Tendulkar,Mumbai Indians,30,25,Bowler,4,13,13,145,3,30,9,20,3rd
+Ramandeep Singh,Mumbai Indians,20,26,Batter,5,45,23,113,6,9,9,6,3rd
+Nehal Wadhera,Mumbai Indians,20,23,Batter,14,241,27,145,0,0,0,0,3rd
+Kumar Karthikeya,Mumbai Indians,20,26,Bowler,8,0,0,0,5,45.4,8.7,31,3rd
+Hrithik Shokeen,Mumbai Indians,20,23,Bowler,8,0,0,0,3,62,10,38,3rd
+Duan Jansen,Mumbai Indians,20,23,Bowler,1,0,0,0,1,53,13,24,3rd
+Tristin Stubbs,Mumbai Indians,20,23,Batter,2,25,12,80,1,14,7,6,3rd
+Washington Sundar,Sunrisers Hyderabad,875,23,All rounder,7,60,15,100,3,49,8,37,10th
+Rahul Tripathi,Sunrisers Hyderabad,850,33,Batter,13,272,23,129,0,0,0,0,10th
+Mayank Agarwal,Sunrisers Hyderabad,825,33,Batter,10,270,27,28,0,0,0,0,10th
+Abhishek Sharma,Sunrisers Hyderabad,650,23,All rounder,11,226,21,143,2,62,10,36,10th
+Bhuvneshwar Kumar,Sunrisers Hyderabad,420,34,Bowler,14,42,14,90,16,26.5,8.3,19.16,10th
+Marco Jansen,Sunrisers Hyderabad,420,23,Bowler,8,39,13,90,10,27,9,16,10th
+Kartik Tyagi,Sunrisers Hyderabad,400,23,Bowler,3,0,0,0,1,92,15,37,10th
+Abdul Samad,Sunrisers Hyderabad,400,22,Batter,9,169,42,131,0,0,0,0,10th
+Umran Malik,Sunrisers Hyderabad,400,24,Bowler,8,19,19,237,5,43,11,25,10th
+T Natarajan,Sunrisers Hyderabad,400,32,Bowler,12,0,0,0,10,41,9,27,10th
+Aiden Markaram,Sunrisers Hyderabad,260,29,All rounder,13,243,23,139,1,70,8.5,49,10th
+Adil Rashid,Sunrisers Hyderabad,200,35,All rounder,2,0,0,0,2,28,8,18,10th
+Glenn Phillips,Sunrisers Hyderabad,150,26,All rounder,5,39,8,178,1,20,7,18,10th
+Mayank Markande,Sunrisers Hyderabad,100,25,Bowler,10,0,0,0,12,25,8,19,10th
+Fazalhaq Farooqi,Sunrisers Hyderabad,50,23,Bowler,4,0,0,0,4,30,9,30,10th
+Marcus Stoinis,Lucknow Super Giants,1000,34,All rounder,15,408,31,160,5,20,9,20,4th
+Avesh Khan,Lucknow Super Giants,1000,27,Bowler,9,0,0,0,8,35,9,22,4th
+Krunal Pandya,Lucknow Super Giants,825,32,All rounder,15,188,18,114,9,35,7.5,28,4th
+Mark Wood,Lucknow Super Giants,750,33,Bowler,4,11,11,100,11,8,5,7,4th
+Quinton De Kock,Lucknow Super Giants,675,30,Wicket-keeper,4,143,36,145,0,0,0,0,4th
+Deepak Hooda,Lucknow Super Giants,575,28,All rounder,12,84,17,93,0,0,0,0,4th
+Ravi Bishnoi,Lucknow Super Giants,400,23,Bowler,16,0,0,0,24,17,8,19,4th
+Krishnappa Gowtham,Lucknow Super Giants,90,35,All rounder,7,61,15,165,3,39,7,32,4th
+Daniel Sams,Lucknow Super Giants,75,29,Bowler,11,38,6,98,13,29,8,19,4th
+Amit Mishra,Lucknow Super Giants,50,40,Bowler,7,0,0,0,7,21,8,17,4th
+Kyle Mayers,Lucknow Super Giants,50,31,All rounder,13,379,30,145,0,0,0,0,4th
+Jaydev Unadkat,Lucknow Super Giants,50,32,Bowler,4,0,0,0,0,92,11.5,100,4th
+Romario Shepherd,Lucknow Super Giants,50,29,Bowler,1,0,0,0,0,0,0,0,4th
+Naveen Ul Haq,Lucknow Super Giants,50,24,Bowler,8,0,0,0,11,20,8,16,4th
+Rahul Tewatia,Gujarat Titans,900,29,All rounder,17,87,22,154,0,0,0,0,2nd
+Shubman Gill,Gujarat Titans,800,24,Batter,17,890,60,158,0,0,0,0,2nd
+Mohammad Shami,Gujarat Titans,625,33,Bowler,17,0,0,0,28,18,8,14,2nd
+Josh Little,Gujarat Titans,440,24,Bowler,10,0,0,0,7,42,8.65,29,2nd
+Yash Dayal,Gujarat Titans,320,26,Bowler,5,0,0,0,2,83,12,42,2nd
+David Miller,Gujarat Titans,300,35,Batter,16,260,43,155,0,0,0,0,2nd
+Abhinav Manohar,Gujarat Titans,260,29,Batter,9,114,19,190,0,0,0,0,2nd
+Matthew Wade,Gujarat Titans,240,35,Wicket-keeper,10,160,26,154,0,0,0,0,2nd
+Wriddhiman Saha,Gujarat Titans,190,38,Wicket-keeper,17,371,34,131,0,0,0,0,2nd
+Vijay Shankar,Gujarat Titans,140,33,Batter,14,301,38,160,0,0,0,0,2nd
+Mohit Sharma,Gujarat Titans,50,35,Bowler,14,0,0,0,27,14,8,8,2nd
+Sai Sudharshan,Gujarat Titans,20,22,Batter,8,362,52,141,0,0,0,0,2nd
+Noor Ahmed,Gujarat Titans,30,19,Bowler,13,0,0,0,16,23,8,18,2nd
